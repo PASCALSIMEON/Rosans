@@ -1,0 +1,48 @@
+.vert { 
+	background-color: green; 
+}
+.orange { 
+	background-color: orange; 
+}
+.rouge { 
+	background-color: red; 
+}
+.aujourdhui { 
+	color:red; 
+	font-weight:bold; 
+	background-color: yellow; 
+}
+td, th { 
+	font-size: 12px; 
+	text-align: center; 
+	padding: 2px; 
+}
+th { 
+	background-color: #BBB; 
+}
+#datsai{ 
+	width: 75px; 
+}
+.cadre { 
+	border: 1px solid 000; 
+	background-color: #DDD; 
+	text-align: center; 
+	padding-top: 10px; 
+	padding-bottom: 10px; 
+}
+#inscription {
+	width: 1000px;
+	left: 17%;
+	margin-left: 0px;
+}
+
+label {
+	display: block;
+	width: 100px;
+	margin-bottom: 12px;	
+	margin-right: 5px;	
+	text-align: right;
+}
+#calendrier {
+	text-align: center; 
+}
